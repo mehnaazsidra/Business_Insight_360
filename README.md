@@ -54,10 +54,41 @@ Many more advanced Power BI techniques.
 
 # Data Model Overview:
 The data model contains 9 fact tables and 7 dimension tables.
-Data Model Structure:
 
-- The data model contains 9 fact tables and 7 dimension tables.
 - **Data Model Structure:**
+
+# Home view 
+
+![Alt Text](https://github.com/mehnaazsidra/Business_Insight_360/blob/main/Home%20Tab%20Copy.png?raw=true)
+
+# Finance view
+
+![Alt Text](https://github.com/mehnaazsidra/Business_Insight_360/blob/main/Finance%20view-%20Copy.png?raw=true)
+
+
+
+# sales view
+
+![Alt Text](https://github.com/mehnaazsidra/Business_Insight_360/blob/main/Sales.View.png?raw=true)
+
+
+# Marketing view
+
+![Alt Text](https://github.com/mehnaazsidra/Business_Insight_360/blob/main/Marketing%20view.png?raw=true)
+
+
+# Supply chain view
+
+![Alt Text](https://github.com/mehnaazsidra/Business_Insight_360/blob/main/Supply%20chain%20view.png?raw=true)
+
+
+
+# Exceutive view 
+
+
+![Alt Text](https://github.com/mehnaazsidra/Business_Insight_360/blob/main/Executive%20view.png?raw=true)
+
+
 
 ## Project Outcome
 The Business Insights 360 dashboard provides a comprehensive view of AtliQ Hardware’s key business metrics across Finance, Sales, Marketing, and Supply Chain. By leveraging data-driven insights, the project helps AtliQ identify areas of improvement, optimize decision-making, and prevent future losses, ultimately enabling them to compete more effectively in the electronics market.
