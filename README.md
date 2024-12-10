@@ -58,39 +58,6 @@ Data Model Structure:
 
 - The data model contains 9 fact tables and 7 dimension tables.
 - **Data Model Structure:**
-![data_model](https://github.com/user-attachments/assets/97af715f-404a-4558-a61a-d1f21187448b)
-
-## Project Dashboard Views:
-
-### **Home Page**
-![Home_page]
-
-### **Information tab**
-![info_tab](https://github.com/user-attachments/assets/719cbe23-b898-495b-80e1-86853bbfd27a)
-
-### **Support tab**
-![support_tab](https://github.com/user-attachments/assets/e46d9457-932f-4843-a611-3a1ce9758200)
-
-### **Filter Panel / Navigation Panel / Abbreviation tab**
-![filter_nav_abbr](https://github.com/user-attachments/assets/80e581e8-2788-468a-a4a6-26a680a35547)
-
-### **Finance View**
-![finance_view](https://github.com/user-attachments/assets/20e22969-c41e-4e8d-8dad-2a08f1a981f2)
-
-### **Sales View**
-![sales_view](https://github.com/user-attachments/assets/8a927ed1-056e-4010-af59-7e2666f036e9)
-
-### **Marketing View**
-![marketing_view](https://github.com/user-attachments/assets/d0c61062-1e33-4429-8073-84f588cad316)
-
-### **Supply Chain View**
-![sc_view](https://github.com/user-attachments/assets/dbf5cbd4-bae1-47a7-9e49-e473c293abe1)
-
-### **Executive View**
-![executive_view](https://github.com/user-attachments/assets/3b9a23fa-efd9-4120-8853-6a1fbedbe0f6)
-
-
-You can also connect with me on [LinkedIn](https://www.linkedin.com/in/bunty1305/)
 
 ## Project Outcome
 The Business Insights 360 dashboard provides a comprehensive view of AtliQ Hardware’s key business metrics across Finance, Sales, Marketing, and Supply Chain. By leveraging data-driven insights, the project helps AtliQ identify areas of improvement, optimize decision-making, and prevent future losses, ultimately enabling them to compete more effectively in the electronics market.
