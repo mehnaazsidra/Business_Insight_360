@@ -57,6 +57,10 @@ The data model contains 9 fact tables and 7 dimension tables.
 
 - **Data Model Structure:**
 
+# Fact tables
+
+![Alt Text](https://github.com/mehnaazsidra/Business_Insight_360/blob/main/Data%20modelling%20and%20relationships.png?raw=true)
+
 # Home view 
 
 ![Alt Text](https://github.com/mehnaazsidra/Business_Insight_360/blob/main/Home%20Tab%20Copy.png?raw=true)
